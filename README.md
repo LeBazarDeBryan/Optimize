@@ -22,6 +22,7 @@
 | Pack | Loader | Version |
 |------|--------|---------|
 | <a href="https://www.curseforge.com/minecraft/modpacks/breakneck">Breakneck: Optimized</a> | Fabric | 1.20.6 |
+| <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized">Fabulously Optimized</a> | Fabric | 1.20.6 |
 | <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric | 1.20.4 |
 </div></details>
 
