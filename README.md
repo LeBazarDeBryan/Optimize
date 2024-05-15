@@ -21,6 +21,7 @@
 | <a href=""></a> | <a href=""></a> | <img src="https://img.shields.io/github/release//?style=flat&color=007e5f&label=" /> |
 | <a href=""></a> | <a href=""></a> |  |
 | <a href=""></a> | <a href=""></a> |  |
+</details>
 </div></details>
 
 <details><summary><h2>Games</h2></summary>
