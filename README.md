@@ -3,21 +3,21 @@
 
 #
 
-<details>
-<summary><h3>Android</h3></summary>
-<div align="center">
+<details><summary><h2>Android</h2></summary>
+  <details><summary><h3>Software</h3></summary>
+    <div align="center">
 
 | Software | Author | Version | Root |
 |----------|--------|---------|------|
 | <a href="https://adaway.org/">AdAway</a> | <a href="https://github.com/AdAway">AdAway</a> | <img src="https://img.shields.io/github/release/AdAway/AdAway.svg?style=flat&color=007e5f&label=" /> | 🟥 |
 | <a href="https://f-droid.org/packages/s1m.savertuner/">SaverTuner</a> | <a href="https://codeberg.org/s1m">s1m</a> |  | 🟥 |
 | <a href="https://play.google.com/store/apps/details?id=eu.thedarken.sdm">SD Maid</a> | <a href="https://github.com/d4rken">Matthias Urhahn</a> |  | 🟥 |
+</details>
 </div></details>
 
-<details>
-<summary><h3>Games</h3></summary>
-<h3><ul><li>Minecraft</li></ul></h3>
-<div align="center">
+<details><summary><h2>Games</h2></summary>
+  <details><summary><h3>Minecraft</h3></summary>
+    <div align="center">
 
 | Pack | Loader | Version |
 |------|--------|---------|
@@ -29,11 +29,11 @@
 | <a href="https://modrinth.com/modpack/sop">Simply Optimized</a> | Fabric | 1.20.4 |
 | <a href="https://modrinth.com/modpack/perfectlyoptimized">Perfectly Optimized</a> | Fabric | 1.20.2 |
 | <a href="https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack">Optimization Pack</a> | Fabric | 1.19.4 |
+</details>
 </div></details>
 
-<details>
-<summary><h3>Windows</h3></summary>
-<div align="center">
+<details><summary><h2>Windows</h2></summary>
+  <div align="center">
 
 | Software | Author | Tutorial |
 |----------|--------|----------|
