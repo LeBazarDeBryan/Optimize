@@ -13,6 +13,14 @@
 | <a href="https://f-droid.org/packages/s1m.savertuner/">SaverTuner</a> | <a href="https://codeberg.org/s1m">s1m</a> |  | 🟥 |
 | <a href="https://play.google.com/store/apps/details?id=eu.thedarken.sdm">SD Maid</a> | <a href="https://github.com/d4rken">Matthias Urhahn</a> |  | 🟥 |
 </details>
+
+  <details><summary><h3>Magisk Modules</h3></summary>
+
+| Module | Author | Version |
+|--------|--------|---------|
+| <a href=""></a> | <a href=""></a> | <img src="https://img.shields.io/github/release//?style=flat&color=007e5f&label=" /> |
+| <a href=""></a> | <a href=""></a> |  |
+| <a href=""></a> | <a href=""></a> |  |
 </div></details>
 
 <details><summary><h2>Games</h2></summary>
