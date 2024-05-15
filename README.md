@@ -22,6 +22,7 @@
 | <a href="https://github.com/VR-25/acc">Advanced Charging Controller (ACC)</a> | <a href="https://github.com/VR-25">VR-25</a> | <a href="https://github.com/VR-25/acc/releases/latest"><img src="https://img.shields.io/github/release/VR-25/acc.svg?style=flat&color=007e5f&label=" /></a> |
 | <a href="https://github.com/LeanxModulostk/Android-TCP-Optimization">Android TCP Optimization</a> | <a href="https://github.com/LeanxModulostk">@LeanHijosdesusMadres</a> | <a href="https://github.com/LeanxModulostk/Android-TCP-Optimization/releases/latest"><img src="https://img.shields.io/github/release/LeanxModulostk/Android-TCP-Optimization.svg?style=flat&color=007e5f&label=" /></a> |
 | <a href="https://github.com/LeanxModulostk/Bye-Blur">Bye Blur</a> | <a href="https://github.com/LeanxModulostk">@LeanHijosdesusMadres</a> | <a href="https://github.com/LeanxModulostk/Android-TCP-Optimization/releases/latest"><img src="https://img.shields.io/github/release/LeanxModulostk/Bye-Blur.svg?style=flat&color=007e5f&label=" /></a> |
+| <a href="modules/Magisk_Bootloop_Protector-v1.8.1.zip?raw=true">Magisk Bootloop Protector</a> | <a href="https://github.com/HuskyDG">HuskyDG</a> | <a href="modules/Magisk_Bootloop_Protector-v1.8.1.zip?raw=true"><img src="https://img.shields.io/badge/1.8.1-007e5f" /></a> |
 </details>
 </div></details>
 
