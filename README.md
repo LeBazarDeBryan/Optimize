@@ -15,12 +15,13 @@
 </details>
 
   <details><summary><h3>Magisk Modules</h3></summary>
+    <div align="center">
 
 | Module | Author | Version |
 |--------|--------|---------|
-| <a href=""></a> | <a href=""></a> | <img src="https://img.shields.io/github/release//?style=flat&color=007e5f&label=" /> |
-| <a href=""></a> | <a href=""></a> |  |
-| <a href=""></a> | <a href=""></a> |  |
+| <a href="https://github.com/VR-25/acc">Advanced Charging Controller (ACC)</a> | <a href="https://github.com/VR-25">VR-25</a> | <a href="https://github.com/VR-25/acc/releases/latest"><img src="https://img.shields.io/github/release/VR-25/acc.svg?style=flat&color=007e5f&label=" /></a> |
+| <a href="https://github.com/LeanxModulostk/Android-TCP-Optimization">Android TCP Optimization</a> | <a href="https://github.com/LeanxModulostk">@LeanHijosdesusMadres</a> | <a href="https://github.com/LeanxModulostk/Android-TCP-Optimization/releases/latest"><img src="https://img.shields.io/github/release/LeanxModulostk/Android-TCP-Optimization.svg?style=flat&color=007e5f&label=" /></a> |
+| <a href="https://github.com/LeanxModulostk/Bye-Blur">Bye Blur</a> | <a href="https://github.com/LeanxModulostk">@LeanHijosdesusMadres</a> | <a href="https://github.com/LeanxModulostk/Android-TCP-Optimization/releases/latest"><img src="https://img.shields.io/github/release/LeanxModulostk/Bye-Blur.svg?style=flat&color=007e5f&label=" /></a> |
 </details>
 </div></details>
 
