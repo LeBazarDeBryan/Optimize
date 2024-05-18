@@ -9,7 +9,7 @@
 
 | Software | Author | Version | Root |
 |----------|--------|---------|------|
-| <a href="https://adaway.org/">AdAway</a> | <a href="https://github.com/AdAway">AdAway</a> | <img src="https://img.shields.io/github/release/AdAway/AdAway.svg?style=flat&color=007e5f&label=" /> | 🟥 |
+| <a href="https://adaway.org/">AdAway</a> | <a href="https://github.com/AdAway">AdAway</a> | <img src="https://img.shields.io/github/release/AdAway/AdAway.svg?style=flat&color=007e5f&label=" /> | 🟩 |
 | <a href="https://f-droid.org/packages/s1m.savertuner/">SaverTuner</a> | <a href="https://codeberg.org/s1m">s1m</a> |  | 🟥 |
 | <a href="https://play.google.com/store/apps/details?id=eu.thedarken.sdm">SD Maid</a> | <a href="https://github.com/d4rken">Matthias Urhahn</a> |  | 🟥 |
 </details>
