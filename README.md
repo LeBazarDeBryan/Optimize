@@ -31,16 +31,13 @@
   <details><summary><h3>Minecraft</h3></summary>
     <div align="center">
 
-| Pack | Loader | Version |
-|------|--------|---------|
-| <a href="https://www.curseforge.com/minecraft/modpacks/breakneck">Breakneck: Optimized</a> | Fabric | 1.20.6 |
-| <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized">Fabulously Optimized</a> | Fabric | 1.20.6 |
-| <a href="https://modrinth.com/modpack/remarkably">Remarkably Optimized</a> | Fabric | 1.20.6 |
-| <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric | 1.20.4 |
-| <a href="https://www.mediafire.com/folder/1xpbpu8zjwxh3/Minecraft">OptiFix Pack</a> | Fabric | 1.20.4 |
-| <a href="https://modrinth.com/modpack/sop">Simply Optimized</a> | Fabric | 1.20.4 |
-| <a href="https://modrinth.com/modpack/perfectlyoptimized">Perfectly Optimized</a> | Fabric | 1.20.2 |
-| <a href="https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack">Optimization Pack</a> | Fabric | 1.19.4 |
+| Pack | Loader |
+|------|--------|
+| <a href="https://www.curseforge.com/minecraft/modpacks/breakneck">Breakneck: Optimized</a> | Fabric |
+| <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized">Fabulously Optimized</a> | Fabric |
+| <a href="https://modrinth.com/modpack/remarkably">Remarkably Optimized</a> | Fabric |
+| <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric |
+| <a href="https://www.mediafire.com/folder/1xpbpu8zjwxh3/Minecraft">OptiFix Pack</a> | Fabric |
 </details>
 </div></details>
 
