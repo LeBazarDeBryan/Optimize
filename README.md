@@ -1,4 +1,4 @@
-<div align="center"><h1>OptiFix</h1>
+<div align="center"><h1>félix<i>!</i></h1>
 <p>Optimizations and Fixes for Windows / Android devices.</p></div>
 
 #
@@ -37,7 +37,7 @@
 | <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized">Fabulously Optimized</a> | Fabric |
 | <a href="https://modrinth.com/modpack/remarkably">Remarkably Optimized</a> | Fabric |
 | <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric |
-| <a href="https://www.mediafire.com/folder/1xpbpu8zjwxh3/Minecraft">OptiFix Pack</a> | Fabric |
+| <a href="https://www.mediafire.com/folder/1xpbpu8zjwxh3/Minecraft">félix<i>!</i> Pack</a> | Fabric |
 </details>
 </div></details>
 
