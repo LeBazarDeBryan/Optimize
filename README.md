@@ -37,6 +37,7 @@
 | <a href="https://modrinth.com/modpack/remarkably">Remarkably Optimized</a> | Fabric |
 | <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric |
 | <a href="https://www.mediafire.com/folder/1xpbpu8zjwxh3/Minecraft">félix<i>!</i> Pack</a> | Fabric |
+| <a href="https://www.curseforge.com/minecraft/modpacks/optimized-forge-forge">Optimized fps</a> | Forge |
 </details>
 </div></details>
 
