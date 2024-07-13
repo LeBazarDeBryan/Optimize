@@ -1,7 +1,4 @@
-<div align="center"><h1>félix<i>!</i></h1>
-<p>Optimizations and Fixes for Windows / Android devices.</p></div>
-
-#
+<div align="center"><img src="logo.png" /></div>
 
 <details><summary><h2>Android</h2></summary>
   <details><summary><h3>Software</h3></summary>
