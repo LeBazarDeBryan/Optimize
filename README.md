@@ -28,14 +28,15 @@
   <details><summary><h3>Minecraft</h3></summary>
     <div align="center">
 
-| Pack | Loader |
-|------|--------|
-| <a href="https://www.curseforge.com/minecraft/modpacks/breakneck">Breakneck: Optimized</a> | Fabric |
-| <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized">Fabulously Optimized</a> | Fabric |
-| <a href="https://modrinth.com/modpack/remarkably">Remarkably Optimized</a> | Fabric |
-| <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric |
-| <a href="https://www.mediafire.com/folder/1xpbpu8zjwxh3/Minecraft">félix<i>!</i> Pack</a> | Fabric |
-| <a href="https://www.curseforge.com/minecraft/modpacks/optimized-forge-forge">Optimized fps</a> | Forge |
+|   | Pack | Loader |
+|---|------|--------|
+| 1 | <a href="https://www.curseforge.com/minecraft/modpacks/breakneck">Breakneck: Optimized</a> | Fabric |
+| 2 | <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized">Fabulously Optimized</a> | Fabric |
+| 3 | <a href="https://modrinth.com/modpack/remarkably">Remarkably Optimized</a> | Fabric |
+| 4 | <a href="https://modrinth.com/modpack/sop">Simply Optimized</a> | Fabric |
+| 5 | <a href="https://www.mediafire.com/folder/1xpbpu8zjwxh3/Minecraft">félix<i>!</i> Pack</a> | Fabric |
+| 6 | <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric |
+| 7 | <a href="https://www.curseforge.com/minecraft/modpacks/optimized-forge-forge">Optimized fps</a> | Forge |
 </details>
 </div></details>
 
