@@ -21,6 +21,7 @@
 | <a href="https://github.com/Magisk-Modules-Repo/magisk-drm-disabler">Magisk DRM Disabler</a> | <a href="https://github.com/Atrate">Atrate</a> | <a href=""><img src="https://img.shields.io/github/release/Magisk-Modules-Repo/magisk-drm-disabler.svg?style=flat&color=007e5f&label=" /></a> |
 | <a href="https://github.com/chiteroman/PlayIntegrityFix">Play Integrity Fix</a> | <a href="https://github.com/chiteroman">Marcos</a> | <a href="https://github.com/chiteroman/PlayIntegrityFix/releases/latest"><img src="https://img.shields.io/github/release/chiteroman/PlayIntegrityFix.svg?style=flat&color=007e5f&label=" /></a> |
 | <a href="https://github.com/ez-me/Simple_BootloopSaver">Simple Bootloop Saver</a> | <a href="https://github.com/ez-me">Esteban Zapata</a> | <a href="modules/Simple_BootloopSaver-v2.zip?raw=true"><img src="https://img.shields.io/badge/v2-007e5f" /></a> |
+| <a href="https://github.com/gloeyisk/universal-gms-doze">Universal GMS Doze</a> | <a href="https://github.com/gloeyisk">Gilang Iskandar </a> | <a href="https://github.com/gloeyisk/universal-gms-doze/releases/latest"><img src="https://img.shields.io/github/release/gloeyisk/universal-gms-doze.svg?style=flat&color=007e5f&label=" /></a> |
 </details>
 </div></details>
 
