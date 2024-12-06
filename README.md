@@ -46,7 +46,7 @@
 
 | Software | Author | Tutorial |
 |----------|--------|----------|
-| <a href="https://github.com/ChrisTitusTech/winutil#usage">Chris Titus Tech's Windows Utility</a> | <a href="https://github.com/ChrisTitusTech"><img width="250" src="https://github.com/ChrisTitusTech/ChrisTitusTech/blob/main/ctt-600px-github.png?raw=true" /></a> | <a href="https://www.youtube.com/watch?v=5_AaHXrelTE"><img src="images/icons/youtube.svg" width="32" /></a> |
-| Khorvie 2024 Optimizations | <a href="https://www.youtube.com/@khorvietech"><img width="50" src="https://yt3.googleusercontent.com/XM3z3M3oRs9tu56WI_AQ2M1i8oi6g2Gq-cPmlF9MozkOyFNLCEd9wysGaIsEWwhjwjyNmlvI9Yg"></a> | <a href="https://www.youtube.com/watch?v=iBiNfa32AnE"><img src="images/icons/youtube.svg" width="32" /></a> |
+| <a href="https://github.com/ChrisTitusTech/winutil#usage">Chris Titus Tech's Windows Utility</a> | <a href="https://github.com/ChrisTitusTech"><img width="250" src="https://github.com/ChrisTitusTech/ChrisTitusTech/blob/main/ctt-600px-github.png?raw=true" /></a> | <a href="https://farside.link/invidious/watch?v=92SM8Az5QVM"><img src="images/icons/youtube.svg" width="32" /></a> |
+| Khorvie 2024 Optimizations | <a href="https://www.youtube.com/@khorvietech"><img width="50" src="https://yt3.googleusercontent.com/XM3z3M3oRs9tu56WI_AQ2M1i8oi6g2Gq-cPmlF9MozkOyFNLCEd9wysGaIsEWwhjwjyNmlvI9Yg"></a> | <a href="https://farside.link/invidious/watch?v=iBiNfa32AnE"><img src="images/icons/youtube.svg" width="32" /></a> |
 | <a href="https://github.com/undergroundwires/privacy.sexy#readme">privacy.sexy</a> | <a href="https://github.com/undergroundwires"><img width="50" src="https://avatars.githubusercontent.com/u/15555035" /></a> | <a href="https://github.com/undergroundwires/privacy.sexy#get-started"><img src="images/icons/github.svg" width="32" /></a>
 </div></details>
