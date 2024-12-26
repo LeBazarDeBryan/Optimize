@@ -1,16 +1,31 @@
-<details><summary><h2>Android</h2></summary>
-  <details><summary><h3>Software</h3></summary>
-    <div align="center">
+<details><summary><img src="images/icons/controller.png" width="24" /> <h2>Games</h2></summary>
+  <div align="center">
+    <details><summary><img src="images/icons/minecraft.png" width="24" /> <h3>Minecraft</h3></summary>
 
-| Software | Author | Version | Root |
-|----------|--------|---------|------|
-| <a href="https://adaway.org/">AdAway</a> | <a href="https://github.com/AdAway">AdAway</a> | <img src="https://img.shields.io/github/release/AdAway/AdAway.svg?style=flat&color=007e5f&label=" /> | 🟩 |
-| <a href="https://f-droid.org/packages/s1m.savertuner/">SaverTuner</a> | <a href="https://codeberg.org/s1m">s1m</a> |  | 🟥 |
-| <a href="https://play.google.com/store/apps/details?id=eu.thedarken.sdm">SD Maid</a> | <a href="https://github.com/d4rken">Matthias Urhahn</a> |  | 🟥 |
+| Pack | Loader |
+|------|--------|
+| <a href="https://www.curseforge.com/minecraft/modpacks/breakneck">Breakneck: Optimized</a> | Fabric |
+| <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized">Fabulously Optimized</a> | Fabric |
+| <a href="https://modrinth.com/modpack/remarkably">Remarkably Optimized</a> | Fabric |
+| <a href="https://modrinth.com/modpack/sop">Simply Optimized</a> | Fabric |
+| <a href="https://www.mediafire.com/folder/1xpbpu8zjwxh3/Minecraft">félix<i>!</i> Pack</a> | Fabric |
+| <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric |
+| <a href="https://www.curseforge.com/minecraft/modpacks/optimized-forge-forge">Optimized fps</a> | Forge |
+</details>
+</div></details>
+
+<details><summary><img src="images/icons/android.png" width="24" /> <h2>Android</h2></summary>
+  <div align="center">
+    <details><summary><h3>Software</h3></summary>
+
+| Software | Author |  Root |
+|----------|--------|-------|
+| <a href="https://adaway.org/">AdAway</a> | <a href="https://github.com/AdAway">AdAway</a> | 🟩 |
+| <a href="https://f-droid.org/packages/s1m.savertuner/">SaverTuner</a> | <a href="https://codeberg.org/s1m">s1m</a> | 🟥 |
+| <a href="https://play.google.com/store/apps/details?id=eu.thedarken.sdm">SD Maid</a> | <a href="https://github.com/d4rken">Matthias Urhahn</a> | 🟥 |
 </details>
 
-  <details><summary><h3>Magisk Modules</h3></summary>
-    <div align="center">
+  <details><summary><img src="images/icons/magisk.png" width="24" /> <h3>Magisk Modules</h3></summary>
 
 | Module | Author | Version |
 |--------|--------|---------|
@@ -23,23 +38,7 @@
 </details>
 </div></details>
 
-<details><summary><h2>Games</h2></summary>
-  <details><summary><h3>Minecraft</h3></summary>
-    <div align="center">
-
-|   | Pack | Loader |
-|---|------|--------|
-| 1 | <a href="https://www.curseforge.com/minecraft/modpacks/breakneck">Breakneck: Optimized</a> | Fabric |
-| 2 | <a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized">Fabulously Optimized</a> | Fabric |
-| 3 | <a href="https://modrinth.com/modpack/remarkably">Remarkably Optimized</a> | Fabric |
-| 4 | <a href="https://modrinth.com/modpack/sop">Simply Optimized</a> | Fabric |
-| 5 | <a href="https://www.mediafire.com/folder/1xpbpu8zjwxh3/Minecraft">félix<i>!</i> Pack</a> | Fabric |
-| 6 | <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric |
-| 7 | <a href="https://www.curseforge.com/minecraft/modpacks/optimized-forge-forge">Optimized fps</a> | Forge |
-</details>
-</div></details>
-
-<details><summary><h2>Windows</h2></summary>
+<details><summary><img src="images/icons/windows.png" width="24" /> <h2>Windows</h2></summary>
   <div align="center">
 
 | Software | Author | Tutorial |
