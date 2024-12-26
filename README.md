@@ -1,5 +1,3 @@
-<div align="center">
-
 <details><summary><h2>Android</h2></summary>
   <details><summary><h3>Software</h3></summary>
     <div align="center">
